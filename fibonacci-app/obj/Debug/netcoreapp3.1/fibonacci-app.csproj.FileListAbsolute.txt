@@ -1,0 +1,13 @@
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app.deps.json
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app.runtimeconfig.json
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app.runtimeconfig.dev.json
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app.dll
+/home/jaishnav/dotNetCoreApps/fibonacci-app/bin/Debug/netcoreapp3.1/fibonacci-app.pdb
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.csprojAssemblyReference.cache
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.csproj.CoreCompileInputs.cache
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.AssemblyInfoInputs.cache
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.AssemblyInfo.cs
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.dll
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.pdb
+/home/jaishnav/dotNetCoreApps/fibonacci-app/obj/Debug/netcoreapp3.1/fibonacci-app.genruntimeconfig.cache

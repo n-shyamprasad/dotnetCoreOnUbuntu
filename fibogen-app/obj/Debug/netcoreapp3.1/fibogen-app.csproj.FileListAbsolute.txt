@@ -1,0 +1,13 @@
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.csprojAssemblyReference.cache
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.csproj.CoreCompileInputs.cache
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.AssemblyInfoInputs.cache
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.AssemblyInfo.cs
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app.deps.json
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app.runtimeconfig.json
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app.runtimeconfig.dev.json
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app.dll
+/home/jaishnav/dotNetCoreApps/fibogen-app/bin/Debug/netcoreapp3.1/fibogen-app.pdb
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.dll
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.pdb
+/home/jaishnav/dotNetCoreApps/fibogen-app/obj/Debug/netcoreapp3.1/fibogen-app.genruntimeconfig.cache
