@@ -52,7 +52,7 @@ Once.NET core is installed you should have access to a command-line tools you ca
 You can easily see what commands are available by typing:
 > dotnet - -help
 
-Also you can refer to below link for more details on CLI
+Also you can refer link for more details on CLI
 https://docs.microsoft.com/en-us/dotnet/core/tools/
 
 Create Solution
@@ -60,16 +60,16 @@ A solution is something we use to keep track of all related projects.
 1. Create directory for our solution
 > mkdir dotNetCoreApps
 cd dotNetCoreApps
-1. Below command will create solution
+2. Below command will create solution
 > dot net new sln
-1. Create Console application and name it as HelloWorld-app
+3. Create Console application and name it as HelloWorld-app
 > dotnet new console -o HelloWorld-app
-1. add the project to the solution file
+4. add the project to the solution file
 > dotnet sln add HelloWorld-app/HelloWorld-app.csproj
-1. Write the code for the project (can check my code)
-1. buid the solution using below code
+5. Write the code for the project (can check my code)
+6. buid the solution using below code
 > dotnet build
-1. run the project
+7. run the project
 > dotnet run HelloWorld-app/HelloWorld-app.csproj
 
  #### Finally commit to GitHub
